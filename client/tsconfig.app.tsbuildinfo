@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/auth.ts","./src/db.ts","./src/main.tsx","./src/sync.ts","./src/types.ts","./src/components/BoardView.tsx","./src/components/Homepage.tsx","./src/components/InkLayer.tsx","./src/components/NoteNode.tsx","./src/components/StringEdge.tsx","./src/components/TextBoxNode.tsx","./src/components/TopicNode.tsx"],"errors":true,"version":"6.0.3"}
